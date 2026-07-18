@@ -59,19 +59,21 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA CHANNEL",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-# ===== 🏏 খেলা =====
 
-#EXTINF:-1 group-title="🏏 খেলা",CAZE TV
+
+
+
+#EXTINF:-1 group-title="SPORTS CHANNEL",CAZE TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 group-title="🏏 খেলা",T Sports
+#EXTINF:-1 group-title="SPORTS CHANNEL",T Sports
 http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 group-title="🏏 খেলা",beIN Sports
+#EXTINF:-1 group-title="SPORTS CHANNEL",beIN Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 group-title="🏏 খেলা",beIN Sports Tekrar
+#EXTINF:-1 group-title="SPORTS CHANNEL",beIN Sports Tekrar
 https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 
-#EXTINF:-1 group-title="🏏 খেলা",PTV Sports HD
+#EXTINF:-1 group-title="SPORTS CHANNEL",PTV Sports HD
 http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
