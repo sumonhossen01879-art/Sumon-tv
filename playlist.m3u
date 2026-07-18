@@ -33,7 +33,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 
 # ===== 📺 বাংলা বিনোদন =====
-#EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",Channel I
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxwCBGtH/20241015-172757.jpg" group-title="📺 বাংলা বিনোদন",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",Channel 9
