@@ -35,7 +35,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 group-title="🌍 আন্তর্জাতিক খবর",Al Jazeera English
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-
 # ===== 📺 বাংলা বিনোদন =====
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SWtYvMV/Channel-i-svg.png" group-title="📺 বাংলা বিনোদন",Channel i
@@ -59,12 +58,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG9SVrXy/Logo-of-Deepto-TV-svg.png" group-title="📺 বাংলা বিনোদন",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
-
 # ===== 🏛️ সরকারি =====
 
 #EXTINF:-1 group-title="🏛️ সরকারি",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-
 
 # ===== 📡 Akash DTH =====
 
@@ -73,3 +70,20 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/master.m3u8
 
 #EXTINF:-1 group-title="📡 Akash DTH",Akash DTH 2
 https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/master.m3u8
+
+# ===== 🏏 খেলা =====
+
+#EXTINF:-1 group-title="🏏 খেলা",CAZE TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 group-title="🏏 খেলা",T Sports
+http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 group-title="🏏 খেলা",beIN Sports
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 group-title="🏏 খেলা",beIN Sports Tekrar
+https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 group-title="🏏 খেলা",T Sports HD
+http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
