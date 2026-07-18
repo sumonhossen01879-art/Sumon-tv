@@ -1,7 +1,7 @@
 #EXTM3U
 
 # ===== 📰 খবর =====
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SLYg1Ck/20231119-000600.png" group-title="📰 খবর",Independent TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQr2ZvKN/Independent-Television-Logo-svg.png" group-title="📰 খবর",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="..." group-title="📰 খবর",Channel 24
@@ -51,7 +51,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",SATV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",Deepto TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG9SVrXy/Logo-of-Deepto-TV-svg.png" group-title="📺 বাংলা বিনোদন",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 
