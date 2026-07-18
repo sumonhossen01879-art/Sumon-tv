@@ -1,60 +1,73 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQr2ZvKN/Independent-Television-Logo-svg.png" group-title="BANGLA CHANNEL",Independent TV
+# ===== 📰 খবর =====
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SLYg1Ck/20231119-000600.png" group-title="📰 খবর",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4jq36sK/Logo-of-Channel-24-(Bangladesh)-svg.png" group-title="BANGLA CHANNEL",Channel 24
+#EXTINF:-1 tvg-logo="..." group-title="📰 খবর",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh4Lg283/News24-Bangladesh-Logo-2016.jpg" group-title="BANGLA CHANNEL",News24
+#EXTINF:-1 tvg-logo="..." group-title="📰 খবর",News24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY1NsLrj/samaya-ta-bha-ra-la-ga.jpg" group-title="BANGLA CHANNEL",Somoy TV
+#EXTINF:-1 tvg-logo="..." group-title="📰 খবর",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTwZkN1d/eka-ta-tara-ta-bha.jpg" group-title="BANGLA CHANNEL",Ekattor TV
+#EXTINF:-1 tvg-logo="..." group-title="📰 খবর",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1VXtCgL/Jamuna-TV-logo-svg.png" group-title="BANGLA CHANNEL",Jamuna TV
+#EXTINF:-1 tvg-logo="..." group-title="📰 খবর",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyzDtyt4/ATN-News-Logo-without-slogan-svg.png" group-title="BANGLA CHANNEL",ATN News
+#EXTINF:-1 tvg-logo="..." group-title="📰 খবর",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05VXd1bC/da-ba-sa-na-uja-era-la-ga-svg.png" group-title="BANGLA CHANNEL",DBC News
+#EXTINF:-1 tvg-logo="..." group-title="📰 খবর",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLA CHANNEL",Ekhon TV
+#EXTINF:-1 tvg-logo="..." group-title="📰 খবর",Ekhon TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBsfv48K/da-sa-ta-bha-svg.png" group-title="BANGLA CHANNEL",Desh TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB3Dpn69/Aljazeera-eng-svg.png" group-title="BANGLA CHANNEL",Al Jazeera English
+#EXTINF:-1 tvg-logo="..." group-title="🌍 আন্তর্জাতিক খবর",Al Jazeera English
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Channel_i.svg/512px-Channel_i.svg.png" group-title="BANGLA CHANNEL",Channel i
+
+# ===== 📺 বাংলা বিনোদন =====
+#EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6CXp5hd/Channel9-bd-svg.png" group-title="BANGLA CHANNEL",Channel 9
+#EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C8Tp6GS/Maasranga-Television-Logo.jpg" group-title="BANGLA CHANNEL",Maasranga TV
+#EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhHRvQhr/Banglavision-svg.png" group-title="BANGLA CHANNEL",BanglaVision
+#EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYrhmpQC/NTV-(Bangladesh)-logo-svg.png" group-title="BANGLA CHANNEL",NTV
+#EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/SATV_logo.png" group-title="BANGLA CHANNEL",SATV
+#EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",SATV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG9SVrXy/Logo-of-Deepto-TV-svg.png" group-title="BANGLA CHANNEL",Deepto TV
+#EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/BTV_logo.svg" group-title="BANGLA CHANNEL",BTV
+
+# ===== 🕌 ইসলামিক =====
+#EXTINF:-1 tvg-logo="..." group-title="🕌 ইসলামিক",Islamic TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+
+# ===== 🏛️ সরকারি =====
+#EXTINF:-1 tvg-logo="..." group-title="🏛️ সরকারি",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="
+
+# ===== 📡 Akash DTH =====
+#EXTINF:-1 tvg-logo="..." group-title="📡 Akash DTH",Akash DTH 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/master.m3u8
+
+#EXTINF:-1 tvg-logo="..." group-title="📡 Akash DTH",Akash DTH 2
+https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/master.m3u8
