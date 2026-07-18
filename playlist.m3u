@@ -13,7 +13,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY1NsLrj/samaya-ta-bha-ra-la-ga.jpg" group-title="TV CHANNEL",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTwZkN1d/eka-ta-tara-ta-bha.jpg" group-title="TV CHANNEL",Ekattor TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nV1tDL8k/Ekattor-TV-HD-2012.webp" group-title="TV CHANNEL",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1VXtCgL/Jamuna-TV-logo-svg.png" group-title="TV CHANNEL",Jamuna TV
@@ -31,7 +31,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB3Dpn69/Aljazeera-eng-svg.png" group-title="TV CHANNEL",Al Jazeera English
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Channel_i.svg/512px-Channel_i.svg.png" group-title="TV CHANNEL",Channel i
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLcQ5zVL/Channel-i-svg.png" group-title="TV CHANNEL",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6CXp5hd/Channel9-bd-svg.png" group-title="TV CHANNEL",Channel 9
@@ -54,6 +54,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/BTV_logo.svg" group-title="TV CHANNEL",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLYmGC9G/Colors-Bangla-logo-svg.png" group-title="TV CHANNEL",ColorsBanglaHD
+https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+
+
+
 
 # ===== SPORTS CHANNEL =====
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTMSbh0F/Logotipo-da-Caze-TV.png" group-title="SPORTS CHANNEL",CAZE TV
