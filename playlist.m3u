@@ -42,7 +42,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",BanglaVision
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7FX7BYR/Banglavision-svg.png" group-title="📺 বাংলা বিনোদন",BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="..." group-title="📺 বাংলা বিনোদন",NTV
