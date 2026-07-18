@@ -28,6 +28,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-logo="..." group-title="📰 খবর",Ekhon TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/zBsfv48K/da-sa-ta-bha-svg.png" group-title=" 📰 খবর",Islamic TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="..." group-title="🌍 আন্তর্জাতিক খবর",Al Jazeera English
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
@@ -56,7 +60,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 
 # ===== 🕌 ইসলামিক =====
-#EXTINF:-1 tvg-logo="..." group-title="🕌 ইসলামিক",Islamic TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBsfv48K/da-sa-ta-bha-svg.png" group-title="🕌 ইসলামিক",Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 
