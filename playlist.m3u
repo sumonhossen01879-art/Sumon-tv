@@ -1,74 +1,60 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/SQr2ZvKN/Independent-Television-Logo-svg.png” group-title=”BANGLA CHANNEL”,Independent TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQr2ZvKN/Independent-Television-Logo-svg.png" group-title="BANGLA CHANNEL",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/t4jq36sK/Logo-of-Channel-24-(Bangladesh)-svg.png” group-title=”BANGLA CHANNEL”,Channel 24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4jq36sK/Logo-of-Channel-24-(Bangladesh)-svg.png" group-title="BANGLA CHANNEL",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/nh4Lg283/News24-Bangladesh-Logo-2016.jpg” group-title=”BANGLA CHANNEL”,News24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh4Lg283/News24-Bangladesh-Logo-2016.jpg" group-title="BANGLA CHANNEL",News24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/bY1NsLrj/samaya-ta-bha-ra-la-ga.jpg” group-title=”BANGLA CHANNEL”,Somoy TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY1NsLrj/samaya-ta-bha-ra-la-ga.jpg" group-title="BANGLA CHANNEL",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/fTwZkN1d/eka-ta-tara-ta-bha.jpg” group-title=”BANGLA CHANNEL”,Ekattor TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTwZkN1d/eka-ta-tara-ta-bha.jpg" group-title="BANGLA CHANNEL",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/C1VXtCgL/Jamuna-TV-logo-svg.png” group-title=”BANGLA CHANNEL”,Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1VXtCgL/Jamuna-TV-logo-svg.png" group-title="BANGLA CHANNEL",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/DyzDtyt4/ATN-News-Logo-without-slogan-svg.png” group-title=”BANGLA CHANNEL”,ATN News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyzDtyt4/ATN-News-Logo-without-slogan-svg.png" group-title="BANGLA CHANNEL",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/05VXd1bC/da-ba-sa-na-uja-era-la-ga-svg.png” group-title=”BANGLA CHANNEL”,DBC News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05VXd1bC/da-ba-sa-na-uja-era-la-ga-svg.png" group-title="BANGLA CHANNEL",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png” group-title=”BANGLA CHANNEL”,Ekhon TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLA CHANNEL",Ekhon TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/zBsfv48K/da-sa-ta-bha-svg.png” group-title=”BANGLA CHANNEL”,Desh TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBsfv48K/da-sa-ta-bha-svg.png" group-title="BANGLA CHANNEL",Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/wB3Dpn69/Aljazeera-eng-svg.png” group-title=”BANGLA CHANNEL”,Al Jazeera English
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB3Dpn69/Aljazeera-eng-svg.png" group-title="BANGLA CHANNEL",Al Jazeera English
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/wB3Dpn69/Aljazeera-eng-svg.png” group-title=”BANGLA CHANNEL”,Channel i
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Channel_i.svg/512px-Channel_i.svg.png" group-title="BANGLA CHANNEL",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/L6CXp5hd/Channel9-bd-svg.png” group-title=”BANGLA CHANNEL”,Channel 9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6CXp5hd/Channel9-bd-svg.png" group-title="BANGLA CHANNEL",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/8C8Tp6GS/Maasranga-Television-Logo.jpg” group-title=”BANGLA CHANNEL”,Maasranga TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C8Tp6GS/Maasranga-Television-Logo.jpg" group-title="BANGLA CHANNEL",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/GhHRvQhr/Banglavision-svg.png” group-title=”BANGLA CHANNEL”,BanglaVision
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhHRvQhr/Banglavision-svg.png" group-title="BANGLA CHANNEL",BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/KYrhmpQC/NTV-(Bangladesh)-logo-svg.png” group-title=”BANGLA CHANNEL”,NTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYrhmpQC/NTV-(Bangladesh)-logo-svg.png" group-title="BANGLA CHANNEL",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/b/b7/SATV_logo.png” group-title=”BANGLA CHANNEL”,SATV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/SATV_logo.png" group-title="BANGLA CHANNEL",SATV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/kG9SVrXy/Logo-of-Deepto-TV-svg.png” group-title=”BANGLA CHANNEL”,Deepto TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG9SVrXy/Logo-of-Deepto-TV-svg.png" group-title="BANGLA CHANNEL",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/59/BTV_logo.svg” group-title=”BANGLA CHANNEL”,BTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/BTV_logo.svg" group-title="BANGLA CHANNEL",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/tTMSbh0F/Logotipo-da-Caze-TV.png” group-title=”SPORTS CHANNEL”,CAZE TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/ZYytRqfS/T-Sports-logo-svg.png” group-title=”SPORTS CHANNEL”,T Sports
-http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/3RsqpgLQ/Be-IN-Sports-logo-(horizontal-version)-svg.png” group-title=”SPORTS CHANNEL”,beIN Sports
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/8/8e/BeIN_Sports_logo.svg” group-title=”SPORTS CHANNEL”,beIN Sports Tekrar
-https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1 tvg-logo=”https://i.postimg.cc/9XPbJ50y/PTV-Sports.png” group-title=”SPORTS CHANNEL”,PTV Sports HD
-http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
-
+#EXTINF:-1 tvg-logo="
