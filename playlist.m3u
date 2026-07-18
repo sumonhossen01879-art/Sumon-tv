@@ -63,13 +63,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 group-title="🏛️ সরকারি",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-# ===== 📡 Akash DTH =====
-
-#EXTINF:-1 group-title="📡 Akash DTH",Akash DTH 1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/master.m3u8
-
-#EXTINF:-1 group-title="📡 Akash DTH",Akash DTH 2
-https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/master.m3u8
 
 # ===== 🏏 খেলা =====
 
@@ -85,5 +78,5 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="🏏 খেলা",beIN Sports Tekrar
 https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 
-#EXTINF:-1 group-title="🏏 খেলা",T Sports HD
+#EXTINF:-1 group-title="🏏 খেলা",PTV Sports HD
 http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
