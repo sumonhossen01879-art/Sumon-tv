@@ -126,6 +126,29 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0LPdqbj/Bantul-The-Great-logo.jpg" group-title="TV CHANNEL",Bantul The Great
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PjJkZy4/ga-pa-la-bha-da-ka-ra-ta-na-dha-ra-ba-ha-ka-ra-sa-ra-na-ma-ka-ra-da.jpg" group-title="TV CHANNEL",GOPAL BHAR
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvMj64Rp/Republic-Bangla-logo.png" group-title="TV CHANNEL",REPUBLIC BANGLA TV
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMrty2xG/250.webp" group-title="TV CHANNEL",G TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjgHNjgg/Star-Sports-1-HD.png" group-title="TV CHANNEL",STAR SPORTS 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTFvWD0V/282.webp" group-title="TV CHANNEL",ATN MUSIC 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXydDknz/Logo-of-Ananda-TV-svg.png" group-title="TV CHANNEL",ANANDA TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 
 
 
