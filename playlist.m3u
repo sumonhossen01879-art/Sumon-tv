@@ -155,6 +155,113 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwpsvTcQ/Colors-Bangla-logo-svg-(1).png" group-title="TV CHANNEL",COLORS BANGLA
+https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcB0pWNn/Dd-Bangla.png" group-title="TV CHANNEL",DD BANGLA
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY2vq5M8/Aakash-Aath-Logo.png" group-title="TV CHANNEL",AKASH AATH
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ht3FzDQ7/Sony-Aath-Logo.png" group-title="TV CHANNEL",SONY AATH
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBkYfnnM/Ekhon-Logo.jpg" group-title="TV CHANNEL",EKHON TV
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26xZQJzW/images.png" group-title="TV CHANNEL",9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkGkLzmG/images-(2).jpg" group-title="TV CHANNEL",MUSIC INDIA 
+http://103.175.73.12:8080/live/158/158_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26dK4zbz/Motu-Patlu-official-logo.png" group-title="TV CHANNEL",MOTU PATLU
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT86dGRn/PTV-Sports-(1).png" group-title="TV CHANNEL",PTV SPORTS
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxHnTXqK/244-2446295-pakistan-ten-sports-channel-logo.jpg" group-title="TV CHANNEL",TEN CRICKET
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNphgxTg/Channel-S-Official-LOGO.png" group-title="TV CHANNEL",CHANNEL S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB2fW9ck/STAR-Movies-HD-logo.jpg" group-title="TV CHANNEL",STAR MOVIES HD
+http://202.70.146.135:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kRHwppt/Sony-TV-new.png" group-title="TV CHANNEL",SONY TELEVISION
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0tfFdqT/Zee-Bollywood-2025.jpg" group-title="TV CHANNEL",ZEE BOLLYWOOD 
+https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9bYG73/Zee-Cinema-2025.jpg" group-title="TV CHANNEL",ZEE CINEMA HD
+https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3CtRNPm/Zee-TV-2025.jpg" group-title="TV CHANNEL",ZEE TV
+https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjWVJwrg/pictures-svg.png" group-title="TV CHANNEL",& PICTURE HD
+https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCCfsS3L/images-(4).jpg" group-title="TV CHANNEL",RUPASHI BANGLA
+http://103.175.73.12:8080/live/664/664_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png" group-title="TV CHANNEL",IQRAA TV
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="TV CHANNEL",QURAN TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" group-title="TV CHANNEL",PEACE  TV BANGLA
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4nkLqHS/20260321_075216.png" group-title="TV CHANNEL",ISLAMIC TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90BTtfjn/BTV-NEWS-Logo-Bangladesh-Television.png" group-title="TV CHANNEL",BTV NEWS
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvjy89nG/Bangladesh-Television-Logo.jpg" group-title="TV CHANNEL", BTV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5Mfd1TM/FIFA-logo-without-slogan-svg.png" group-title="TV CHANNEL",FIFA+ 
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fL5ZZ47L/Channel-16-Bangladesh-Logo.png" group-title="TV CHANNEL",CHANNEL 16
+http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf333fqQ/news21-1.png" group-title="TV CHANNEL",NEWS 21
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdrxNrvD/SRK-TV-plus-Logo-17MAR25-r3599ir9na5ybl8f1lcdpofzlufod567se6fvzouym.png" group-title="TV CHANNEL",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+
+
+
+
 
 
 
