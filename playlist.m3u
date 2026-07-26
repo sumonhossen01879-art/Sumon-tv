@@ -48,7 +48,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05VXd1bC/da-ba-sa-na-uja-era-la-ga-svg.png" group-title="TV CHANNEL",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMbtRzKv/ga-la-ba-la-ta-la-bha-sana-ba-la-da-sa-ra-la-ga-2.png" group-title="TV CHANNEL", GLOBAL TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLcQ5zVL/Channel-i-svg.png" group-title="TV CHANNEL",Channel i
@@ -178,6 +179,18 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdrxNrvD/SRK-TV-plus-Logo-17MAR25-r3599ir9na5ybl8f1lcdpofzlufod567se6fvzouym.png" group-title="TV CHANNEL",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+
+
+# ===== WILDLIFE CHANNEL =====
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tR0QsnK/2018-Animal-Planet-logo.jpg" group-title="WILDLIFE CHANNEL", ANIMAL PLANET HD 
+http://27.124.71.27/Animal_Planet/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CJG9Nb8/Love-Nature-logo-(2025).jpg" group-title=" WILDLIFE CHANNEL", LOVE NATURE 
+http://27.124.71.27/Love_Nature/index.m3u8
+
 
 # ===== CARTOON CHANNEL =====
 
