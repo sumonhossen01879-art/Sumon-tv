@@ -748,7 +748,7 @@ http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjgHNjgg/Star-Sports-1-HD.png" group-title="SPORTS CHANNEL",STAR SPORTS 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
+http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjgHNjgg/Star-Sports-1-HD.png" group-title="SPORTS CHANNEL",STAR SPORTS 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
