@@ -756,13 +756,15 @@ http://103.151.60.204:881/A-Sports/video.m3u8?token=Cv90Fr-lyiZYh2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hG5L4bxW/Willow-Sports-Stacked-Logo-White-e1728946503266-(1).png" group-title=" SPORTS CHANNEL", WILLOW SPORTS
 http://27.124.71.27/Willow_Extra/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1Zx4ZVq/20260729-081731.jpg" group-title="SPORTS CHANNEL",STAR SPORTS 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/373207.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hcdgTpP/Star-Sports-2-HD.webp" group-title=" SPORTS CHANNEL", STAR SPORTS 2 HD
 http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1Zx4ZVq/20260729-081731.jpg" group-title="SPORTS CHANNEL",STAR SPORTS 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/373207.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5Mfd1TM/FIFA-logo-without-slogan-svg.png" group-title="SPORTS CHANNEL",FIFA+ 
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
