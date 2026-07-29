@@ -187,6 +187,10 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t44dy1Vx/20260729-093447.jpg" group-title="WILDLIFE CHANNEL",DISCOVERY HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1531199.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw4ZqF90/images-(6).png" group-title="WILDLIFE CHANNEL",NATIONAL GEOGRAPHIC CHANNEL HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tR0QsnK/2018-Animal-Planet-logo.jpg" group-title="WILDLIFE CHANNEL", ANIMAL PLANET HD 
 http://27.124.71.27/Animal_Planet/index.m3u8
 
