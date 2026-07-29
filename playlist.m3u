@@ -241,6 +241,9 @@ http://103.175.73.12:8080/live/158/158_0.m3u8
 
 # ===== INDIAN CHANNEL =====
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fzv4FsX/Tata-Play-BC-logo-2022.webp" group-title="INDIAN CHANNEL",TATA BANGLA CINEMA
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155775.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pL9tSVbm/200-(1).webp" group-title="INDIAN CHANNEL",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
