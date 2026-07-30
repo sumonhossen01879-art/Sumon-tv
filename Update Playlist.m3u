@@ -42,6 +42,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1VXtCgL/Jamuna-TV-logo-svg.png" group-title="TV CHANNEL",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3vbgvGh/images-(7).png" group-title="TV CHANNEL",ATN BANGLA
+https://playztv-apps.pages.dev/atn-bangla/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyzDtyt4/ATN-News-Logo-without-slogan-svg.png" group-title="TV CHANNEL",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
