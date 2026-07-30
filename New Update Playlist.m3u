@@ -24,6 +24,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90BTtfjn/BTV-NEWS-Logo-Bangladesh-Television.png" group-title="TV CHANNEL",BTV NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvtK2m8p/images-(10).jpg" group-title="TV CHANNEL",SANGSAD BANGLADESH TELEVISION 
+https://i.postimg.cc/BvtK2m8p/images-(10).jpg
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQr2ZvKN/Independent-Television-Logo-svg.png" group-title="TV CHANNEL",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
@@ -76,8 +80,6 @@ https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG9SVrXy/Logo-of-Deepto-TV-svg.png" group-title="TV CHANNEL",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/BTV_logo.svg" group-title="TV CHANNEL",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWYY765x/Rtv-bangladesh.jpg" group-title="TV CHANNEL",Rtv
